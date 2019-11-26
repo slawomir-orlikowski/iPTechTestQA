@@ -1,0 +1,3 @@
+pages\RoomBookingPage.class
+testcases\RoomBookingBasicsTest.class
+testcases\RoomBookingValidationsTest.class
